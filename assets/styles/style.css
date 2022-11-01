@@ -1,0 +1,9 @@
+nav{
+    background: white;
+    position: relative;
+    gap: 600px;
+    padding: 20px;
+    justify-content: flex-end;
+    display: flex;
+
+}
