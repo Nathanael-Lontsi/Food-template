@@ -47,6 +47,7 @@ a {
   justify-content: center;
   line-height: 1.5;
   vertical-align: middle;
+  padding-top: 20px;
 }
 
 figcaption {
@@ -54,6 +55,29 @@ figcaption {
   text-align: center;
   color: black;
   font-size: 24px;
-  padding: 20px;
+  padding: 0;
   vertical-align: middle;
+}
+
+/* About */
+hr{
+  margin: 50px 50px;
+}
+
+.about{
+  font-size: large;
+  text-align: center;
+  margin-top: 70px;
+}
+
+.chefman{
+  text-align: center;
+  margin-top: 35px;
+}
+
+.text{
+  text-align: center;
+  line-height: 1.5;
+  margin-bottom: 100px;
+  padding: 0;
 }
