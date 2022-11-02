@@ -60,22 +60,22 @@ figcaption {
 }
 
 /* About */
-hr{
-  margin: 50px 50px;
+hr {
+  margin: 50px;
 }
 
-.about{
+.about {
   font-size: large;
   text-align: center;
   margin-top: 70px;
 }
 
-.chefman{
+.chefman {
   text-align: center;
   margin-top: 35px;
 }
 
-.text{
+.text {
   text-align: center;
   line-height: 1.5;
   margin-bottom: 100px;
