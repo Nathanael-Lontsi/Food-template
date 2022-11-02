@@ -1,6 +1,6 @@
 * {
-  font-family: 'Times New Roman', Times, serif;
- }
+  font-family: "Times New Roman", Times, serif;
+}
 
 nav {
   background: white;
@@ -18,7 +18,7 @@ a {
 }
 
 #menubtn {
-  height: 40px; 
+  height: 40px;
   width: 50px;
   position: left;
   text-align: center;
@@ -34,7 +34,7 @@ a {
   margin-bottom: 50px;
 }
 
-/*Food*/
+ /*Food*/ 
 
 .food-cards {
   display: flex;
