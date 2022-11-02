@@ -34,8 +34,7 @@ a {
   margin-bottom: 50px;
 }
 
- /*Food*/ 
-
+/* Food */
 .food-cards {
   display: flex;
   gap: 1rem;
