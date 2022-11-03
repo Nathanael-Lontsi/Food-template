@@ -14,7 +14,7 @@ nav {
 
 a {
   text-decoration: none;
-  color: #000000;
+  color: #000;
 }
 
 /* Food */
@@ -36,7 +36,7 @@ a {
 figcaption {
   justify-content: center;
   text-align: center;
-  color: #000000;
+  color: #000;
   font-size: 24px;
   padding: 0;
   vertical-align: middle;
@@ -66,19 +66,14 @@ hr {
 }
 
 /* Footer */
-.footer{
+.footer {
   display: flex;
   justify-content: space-between;
-
 }
 
 .footer-a {
   line-height: 1.5;
   padding: 10px 60px;
-}
-
-.footer-b {
-
 }
 
 .footer-c {
@@ -96,6 +91,6 @@ hr {
 }
 
 .tags:hover {
-  background-color: #000000;
+  background-color: #000;
   color: #fff;
 }
