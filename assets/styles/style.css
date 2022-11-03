@@ -3,7 +3,7 @@
 }
 
 nav {
-  background: white;
+  background: #fff;
   position: relative;
   gap: 550px;
   padding: 15px;
@@ -14,24 +14,7 @@ nav {
 
 a {
   text-decoration: none;
-  color: black;
-}
-
-#menubtn {
-  height: 40px;
-  width: 50px;
-  position: left;
-  text-align: center;
-  left: 30px;
-  top: 20px;
-  border-radius: 3px;
-  cursor: pointer;
-  background-color: grey;
-}
-
-#menubtn img {
-  width: 20px;
-  margin-bottom: 50px;
+  color: #000000;
 }
 
 /* Food */
@@ -47,13 +30,13 @@ a {
   justify-content: center;
   line-height: 1.5;
   vertical-align: middle;
-  padding-top: 20px;
+  padding: 20px;
 }
 
 figcaption {
   justify-content: center;
   text-align: center;
-  color: black;
+  color: #000000;
   font-size: 24px;
   padding: 0;
   vertical-align: middle;
@@ -80,4 +63,39 @@ hr {
   line-height: 1.5;
   margin-bottom: 100px;
   padding: 0;
+}
+
+/* Footer */
+.footer{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.footer-a {
+  line-height: 1.5;
+  padding: 10px 60px;
+}
+
+.footer-b {
+
+}
+
+.footer-c {
+  width: 30%;
+  padding: 0 50px;
+}
+
+.tags {
+  padding: 2px 6px 2px 7px;
+  background-color: #808080;
+  margin-top: 20px;
+  display: inline-block;
+  color: #fff;
+  font-size: small;
+}
+
+.tags:hover {
+  background-color: #000000;
+  color: #fff;
 }
