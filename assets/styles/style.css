@@ -48,7 +48,7 @@ a {
   padding-top: 50px;
 }
 
-.pictures{
+.pictures {
   max-width: 100%;
   min-height: 70%;
 }
@@ -182,7 +182,6 @@ h4 {
 }
 
 @media screen and (max-width: 768px) {
-
   .body {
     overflow-x: hidden;
   }
@@ -203,5 +202,4 @@ h4 {
   .figcaption {
     line-height: 1;
   }
-
 }
