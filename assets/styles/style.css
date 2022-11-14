@@ -38,7 +38,7 @@ a {
   justify-content: center;
   line-height: 1.5;
 }
- 
+
 .food-card {
   overflow: hidden;
   width: 100%;
@@ -169,7 +169,7 @@ h4 {
 }
 
 .footer-c {
-  line-height: 2.6;
+  line-height: 2.5;
 }
 
 .tags {
@@ -225,7 +225,7 @@ h4 {
   .photo img {
     width: 50%;
     height: 25%;
-    margin-right: 20px
+    margin-right: 20px;
   }
 
   .footer-b {
