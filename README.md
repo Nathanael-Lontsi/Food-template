@@ -1,5 +1,5 @@
 # Food-template project
-We have created a food blog template website with three sections. The first section having the food cards, followed by the chefman picture on the following section and the last section containing a the following descriptions: footer, blog posts and popular tags.
+We have created a food blog template site with three sections. The first section having the food cards, followed by the chefman picture on the following section and the last section containing a the following descriptions: footer, blog posts and popular tags.
 ## App
 ![chefman](assets/images/chefman.png)
 ### Built With
