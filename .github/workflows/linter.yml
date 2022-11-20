@@ -42,7 +42,8 @@ jobs:
         with:
           # Full git history is needed to get a proper
           # list of changed files within `super-linter`
-          fetch-depth: 0
+          fetch-depth: 02022-11-15 11:06:15 [ERROR]   ERRORS FOUND in JSCPD:[1]
+
 
       ################################
       # Run Linter against code base #
